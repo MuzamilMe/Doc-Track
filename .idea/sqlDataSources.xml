@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="efb45605-d41d-4ea8-a437-ef2bb7ce1415" name="@localhost Mapping">
+      <data-sources db="a94eed93-e424-4639-a8fe-160f0debf188" ddl="9cc2213a-259c-40f2-8dfc-1807a298fdd1" />
+      <scope>
+        <node kind="schema" qname="doc track" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="9cc2213a-259c-40f2-8dfc-1807a298fdd1" />
+          <option name="name" value="doctrack@localhost (DDL)" />
+          <option name="dbmsName" value="MARIADB" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/doctrack" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
