@@ -2,143 +2,8 @@
 <dataSource name="@localhost">
   <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.49">
     <root id="1">
-      <DefaultCasing>lower/lower</DefaultCasing>
       <DefaultEngine>InnoDB</DefaultEngine>
       <DefaultTmpEngine>InnoDB</DefaultTmpEngine>
-      <Grants>|root||Muzamil||ALTER|G
-|root||root|localhost|ALTER|G
-|root||Muzamil||ALTER ROUTINE|G
-|root||root|localhost|ALTER ROUTINE|G
-|root||root|localhost|APPLICATION_PASSWORD_ADMIN|G
-|root||mysql.infoschema|localhost|AUDIT_ABORT_EXEMPT|G
-|root||mysql.session|localhost|AUDIT_ABORT_EXEMPT|G
-|root||mysql.sys|localhost|AUDIT_ABORT_EXEMPT|G
-|root||root|localhost|AUDIT_ABORT_EXEMPT|G
-|root||root|localhost|AUDIT_ADMIN|G
-|root||mysql.session|localhost|AUTHENTICATION_POLICY_ADMIN|G
-|root||root|localhost|AUTHENTICATION_POLICY_ADMIN|G
-|root||mysql.session|localhost|BACKUP_ADMIN|G
-|root||root|localhost|BACKUP_ADMIN|G
-|root||root|localhost|BINLOG_ADMIN|G
-|root||root|localhost|BINLOG_ENCRYPTION_ADMIN|G
-|root||mysql.session|localhost|CLONE_ADMIN|G
-|root||root|localhost|CLONE_ADMIN|G
-|root||mysql.session|localhost|CONNECTION_ADMIN|G
-|root||root|localhost|CONNECTION_ADMIN|G
-|root||Muzamil||CREATE|G
-|root||root|localhost|CREATE|G
-|root||root|localhost|CREATE ROLE|G
-|root||Muzamil||CREATE ROUTINE|G
-|root||root|localhost|CREATE ROUTINE|G
-|root||Muzamil||CREATE TABLESPACE|G
-|root||root|localhost|CREATE TABLESPACE|G
-|root||Muzamil||CREATE TEMPORARY TABLES|G
-|root||root|localhost|CREATE TEMPORARY TABLES|G
-|root||Muzamil||CREATE USER|G
-|root||root|localhost|CREATE USER|G
-|root||Muzamil||CREATE VIEW|G
-|root||root|localhost|CREATE VIEW|G
-|root||Muzamil||DELETE|G
-|root||root|localhost|DELETE|G
-|root||Muzamil||DROP|G
-|root||root|localhost|DROP|G
-|root||root|localhost|DROP ROLE|G
-|root||root|localhost|ENCRYPTION_KEY_ADMIN|G
-|root||Muzamil||EVENT|G
-|root||root|localhost|EVENT|G
-|root||Muzamil||EXECUTE|G
-|root||root|localhost|EXECUTE|G
-|root||Muzamil||FILE|G
-|root||root|localhost|FILE|G
-|root||mysql.infoschema|localhost|FIREWALL_EXEMPT|G
-|root||mysql.session|localhost|FIREWALL_EXEMPT|G
-|root||mysql.sys|localhost|FIREWALL_EXEMPT|G
-|root||root|localhost|FIREWALL_EXEMPT|G
-|root||root|localhost|FLUSH_OPTIMIZER_COSTS|G
-|root||root|localhost|FLUSH_STATUS|G
-|root||root|localhost|FLUSH_TABLES|G
-|root||root|localhost|FLUSH_USER_RESOURCES|G
-|root||root|localhost|GROUP_REPLICATION_ADMIN|G
-|root||root|localhost|GROUP_REPLICATION_STREAM|G
-|root||Muzamil||INDEX|G
-|root||root|localhost|INDEX|G
-|root||root|localhost|INNODB_REDO_LOG_ARCHIVE|G
-|root||root|localhost|INNODB_REDO_LOG_ENABLE|G
-|root||Muzamil||INSERT|G
-|root||root|localhost|INSERT|G
-|root||Muzamil||LOCK TABLES|G
-|root||root|localhost|LOCK TABLES|G
-|root||root|localhost|PASSWORDLESS_USER_ADMIN|G
-|root||mysql.session|localhost|PERSIST_RO_VARIABLES_ADMIN|G
-|root||root|localhost|PERSIST_RO_VARIABLES_ADMIN|G
-|root||Muzamil||PROCESS|G
-|root||root|localhost|PROCESS|G
-|root||Muzamil||REFERENCES|G
-|root||root|localhost|REFERENCES|G
-|root||Muzamil||RELOAD|G
-|root||root|localhost|RELOAD|G
-|root||Muzamil||REPLICATION CLIENT|G
-|root||root|localhost|REPLICATION CLIENT|G
-|root||Muzamil||REPLICATION SLAVE|G
-|root||root|localhost|REPLICATION SLAVE|G
-|root||root|localhost|REPLICATION_APPLIER|G
-|root||root|localhost|REPLICATION_SLAVE_ADMIN|G
-|root||root|localhost|RESOURCE_GROUP_ADMIN|G
-|root||root|localhost|RESOURCE_GROUP_USER|G
-|root||root|localhost|ROLE_ADMIN|G
-|root||Muzamil||SELECT|G
-|root||mysql.infoschema|localhost|SELECT|G
-|root||root|localhost|SELECT|G
-|root||root|localhost|SENSITIVE_VARIABLES_OBSERVER|G
-|root||root|localhost|SERVICE_CONNECTION_ADMIN|G
-|root||mysql.session|localhost|SESSION_VARIABLES_ADMIN|G
-|root||root|localhost|SESSION_VARIABLES_ADMIN|G
-|root||root|localhost|SET_USER_ID|G
-|root||Muzamil||SHOW DATABASES|G
-|root||root|localhost|SHOW DATABASES|G
-|root||Muzamil||SHOW VIEW|G
-|root||root|localhost|SHOW VIEW|G
-|root||root|localhost|SHOW_ROUTINE|G
-|root||Muzamil||SHUTDOWN|G
-|root||mysql.session|localhost|SHUTDOWN|G
-|root||root|localhost|SHUTDOWN|G
-|root||Muzamil||SUPER|G
-|root||mysql.session|localhost|SUPER|G
-|root||root|localhost|SUPER|G
-|root||mysql.infoschema|localhost|SYSTEM_USER|G
-|root||mysql.session|localhost|SYSTEM_USER|G
-|root||mysql.sys|localhost|SYSTEM_USER|G
-|root||root|localhost|SYSTEM_USER|G
-|root||mysql.session|localhost|SYSTEM_VARIABLES_ADMIN|G
-|root||root|localhost|SYSTEM_VARIABLES_ADMIN|G
-|root||root|localhost|TABLE_ENCRYPTION_ADMIN|G
-|root||Muzamil||TRIGGER|G
-|root||root|localhost|TRIGGER|G
-|root||Muzamil||UPDATE|G
-|root||root|localhost|UPDATE|G
-|root||root|localhost|XA_RECOVER_ADMIN|G
-|root||Muzamil||grant option|G
-|root||root|localhost|grant option|G
-information|schema||Muzamil||ALTER|G
-information|schema||Muzamil||ALTER ROUTINE|G
-information|schema||Muzamil||CREATE|G
-information|schema||Muzamil||CREATE ROUTINE|G
-information|schema||Muzamil||CREATE TEMPORARY TABLES|G
-information|schema||Muzamil||CREATE VIEW|G
-information|schema||Muzamil||DELETE|G
-information|schema||Muzamil||DROP|G
-information|schema||Muzamil||EVENT|G
-information|schema||Muzamil||EXECUTE|G
-information|schema||Muzamil||INDEX|G
-information|schema||Muzamil||INSERT|G
-information|schema||Muzamil||LOCK TABLES|G
-information|schema||Muzamil||REFERENCES|G
-information|schema||Muzamil||SELECT|G
-information|schema||Muzamil||SHOW VIEW|G
-information|schema||Muzamil||TRIGGER|G
-information|schema||Muzamil||UPDATE|G
-performance_schema|schema||mysql.session|localhost|SELECT|G
-sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <ServerVersion>8.0.32</ServerVersion>
     </root>
     <collation id="2" parent="1" name="armscii8_bin">
@@ -1041,8 +906,8 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <Charset>utf8mb4</Charset>
     </collation>
     <schema id="288" parent="1" name="doc track">
-      <IntrospectionTimestamp>2023-08-16.11:54:41</IntrospectionTimestamp>
-      <LocalIntrospectionTimestamp>2023-08-16.06:54:40</LocalIntrospectionTimestamp>
+      <IntrospectionTimestamp>2023-09-19.12:48:18</IntrospectionTimestamp>
+      <LocalIntrospectionTimestamp>2023-09-19.07:48:18</LocalIntrospectionTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="289" parent="1" name="information">

@@ -82,16 +82,22 @@
 <%--Appointment Form--%>
 <section class="ftco-section ftco-no-pt ftco-no-pb ftco-counter img" id="section-counter" style="background-image: url(images/bg_3.jpg);" data-stellar-background-ratio="0.5">
   <div class="container">
-    <div class="row align-items-center justify-content-center">
+
+      <div class="row align-items-center justify-content-center">
       <div class="col-md-6 py-5 pr-md-5">
         <div class="heading-section heading-section-white ftco-animate mb-5">
+          <%@include file="message.jsp"%>
           <span class="subheading">Consultation</span>
           <h2 class="mb-4">Make Appointment</h2>
           <p>Your health is your wealth. Schedule your well-being with ease, right here.</p>
         </div>
         <form action="Appointment" method="post" class="appointment-form ftco-animate align-items-center">
+
+
           <div class="d-md-flex">
             <div class="form-group">
+
+
               <input type="text" class="form-control p-1" name="first_name" placeholder="First Name">
             </div>
             <div class="form-group ml-md-4">
@@ -140,7 +146,8 @@
           </div>
         </form>
       </div>
-  </div></div>
+
+      </div></div></section>
 </section>
 <%--Form End --%>
 <%--footer--%>

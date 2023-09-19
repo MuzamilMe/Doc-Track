@@ -4,6 +4,7 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.security.Provider;
@@ -44,10 +45,13 @@ public class Appointment extends HttpServlet {
                 ps.execute();
                 st.close();
                 connection.close();
-               RequestDispatcher rd = request.getRequestDispatcher("appointment.jsp");
-               out.println("<h1>Form Submitted</h1> <br> <h2>Name:" + Fname + "</h2><br><h2>Last Name:" + Lname + "</h2><br>");
-               rd.include(request,response);
-
+            HttpSession session = request.getSession();
+            session.setAttribute("message","Appointment Done!!"+" "+Fname+" "+Lname);
+            response.sendRedirect("appointment.jsp");
+            return;
+//               RequestDispatcher rd = request.getRequestDispatcher("appointment.jsp");
+//               out.println("<h1>Form Submitted</h1> <br> <h2>Name:" + Fname + "</h2><br><h2>Last Name:" + Lname + "</h2><br>");
+//               rd.include(request,response);
             }
         catch (SQLException ex) {
             throw new RuntimeException(ex);

@@ -17,566 +17,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20503555-1d3c-4696-baa1-52666d676afe" name="Changes" comment="aqa">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Appointments.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Doctors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Home.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/project_javaEEApplication_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a94eed93-e424-4639-a8fe-160f0debf188.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a94eed93-e424-4639-a8fe-160f0debf188/storage_v2/_src_/schema/doc_track.Y8CZpw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a94eed93-e424-4639-a8fe-160f0debf188/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a94eed93-e424-4639-a8fe-160f0debf188/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a94eed93-e424-4639-a8fe-160f0debf188/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a94eed93-e424-4639-a8fe-160f0debf188/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqlDataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/doc track/appointments.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/doctrack/appointments.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/column_stats.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/columns_priv.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/db.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/event.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/func.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/general_log.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/global_priv.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/gtid_slave_pos.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/help_category.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/help_keyword.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/help_relation.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/help_topic.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/index_stats.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/innodb_index_stats.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/innodb_table_stats.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/plugin.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/proc.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/procs_priv.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/proxies_priv.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/roles_mapping.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/servers.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/slow_log.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/table_stats.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/tables_priv.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/time_zone.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/time_zone_leap_second.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/time_zone_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/time_zone_transition.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/time_zone_transition_type.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/transaction_registry.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/mysql/user.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/accounts.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/cond_instances.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_stages_current.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_stages_history.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_stages_history_long.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_stages_summary_by_account_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_stages_summary_by_host_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_stages_summary_by_thread_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_stages_summary_by_user_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_stages_summary_global_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_statements_current.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_statements_history.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_statements_history_long.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_statements_summary_by_account_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_statements_summary_by_digest.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_statements_summary_by_host_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_statements_summary_by_thread_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_statements_summary_by_user_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_statements_summary_global_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_waits_current.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_waits_history.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_waits_history_long.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_waits_summary_by_account_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_waits_summary_by_host_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_waits_summary_by_instance.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_waits_summary_by_thread_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_waits_summary_by_user_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/events_waits_summary_global_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/file_instances.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/file_summary_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/file_summary_by_instance.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/host_cache.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/hosts.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/mutex_instances.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/objects_summary_global_by_type.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/performance_timers.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/rwlock_instances.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/session_account_connect_attrs.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/session_connect_attrs.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/setup_actors.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/setup_consumers.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/setup_instruments.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/setup_objects.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/setup_timers.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/socket_instances.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/socket_summary_by_event_name.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/socket_summary_by_instance.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/table_io_waits_summary_by_index_usage.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/table_io_waits_summary_by_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/table_lock_waits_summary_by_table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/threads.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/performance_schema/users.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__bookmark.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__central_columns.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__column_info.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__designer_settings.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__export_templates.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__favorite.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__history.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__navigationhiding.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__pdf_pages.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__recent.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__relation.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__savedsearches.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__table_coords.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__table_info.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__table_uiprefs.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__tracking.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__userconfig.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__usergroups.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctrack/phpmyadmin/pma__users.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Appointments/project_war.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/Emergency_Services.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/WEB-INF/classes/com/example/project/Appointment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/WEB-INF/classes/com/example/project/Appointments.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/WEB-INF/classes/com/example/project/DBManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/WEB-INF/classes/com/example/project/Doctors.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/WEB-INF/classes/com/example/project/Home.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/about.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/appointment.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/blog-single.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/blog.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/aos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/bootstrap-datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/bootstrap/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/css/mixins/_text-hide.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/icomoon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/jquery.timepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/open-iconic-bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/department.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/doctor.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/backup.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/Flaticon.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/_flaticon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/flaticon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/icomoon1.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/icomoon1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/icomoon1.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/font/icomoon1.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/flaticon/license/license.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/icomoon/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/icomoon/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/icomoon/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/icomoon/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/ionicons/css/_ionicons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/ionicons/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/ionicons/fonts/ionicons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/open-iconic/open-iconic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/open-iconic/open-iconic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/open-iconic/open-iconic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/open-iconic/open-iconic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/fonts/open-iconic/open-iconic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/ambulance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/bg_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/bg_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/bg_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/dept-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/dept-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/dept-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/dept-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/dept-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/doc-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/doc-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/doc-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/doc-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/doc-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/doc-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/doc-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/doc-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/homecare.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/icons8-gmail.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/image_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/image_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/image_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/image_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/image_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/image_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/loc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/medicinepre.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/onlineconsult.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/person_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/person_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/person_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/person_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/staff-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/staff-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/staff-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/images/staff-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/aos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/bootstrap-datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/google-map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/jquery.animateNumber.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/jquery.easing.1.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/jquery.stellar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/jquery.timepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/range.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/js/scrollax.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_custom-forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_spinners.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_toasts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_hover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_text-hide.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/mixins/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_background.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_borders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_display.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_flex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_overflow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_screenreaders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_sizing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_spacing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/bootstrap/utilities/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Doc_Track/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Home/com/example/project/Appointment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Home/com/example/project/Appointments.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Home/com/example/project/DBManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Home/com/example/project/Doctors.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Home/com/example/project/Home.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/project_javaEEApplication_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/project_javaEEApplication_exploded/META-INF/application.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/project_war_exploded/project_war.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/project/Appointment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/project/DBManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/project/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Emergency_Services.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/about.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/appointment.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/blog-single.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/blog.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/aos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap-datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/css/mixins/_text-hide.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/icomoon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery.timepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/open-iconic-bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/department.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/doctor.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/backup.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/Flaticon.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/_flaticon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/flaticon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/flaticon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/icomoon1.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/icomoon1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/icomoon1.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/font/icomoon1.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/flaticon/license/license.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/icomoon/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/icomoon/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/icomoon/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/icomoon/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/ionicons/css/_ionicons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/ionicons/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/ionicons/fonts/ionicons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/ionicons/fonts/ionicons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/ionicons/fonts/ionicons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/ionicons/fonts/ionicons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/ionicons/fonts/ionicons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/open-iconic/open-iconic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/open-iconic/open-iconic.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/open-iconic/open-iconic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/open-iconic/open-iconic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/open-iconic/open-iconic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/ambulance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/bg_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/bg_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/bg_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/dept-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/dept-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/dept-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/dept-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/dept-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/doc-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/doc-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/doc-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/doc-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/doc-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/doc-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/doc-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/doc-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/doctor1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/homecare.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/image_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/image_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/image_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/image_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/image_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/image_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/loc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/logo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/medicinepre.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/onlineconsult.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/person_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/person_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/person_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/person_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/staff-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/staff-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/staff-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/staff-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/aos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap-datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/google-map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.animateNumber.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.easing.1.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.stellar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.timepicker.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/range.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/scrollax.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_custom-forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_spinners.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_toasts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_hover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_text-hide.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/mixins/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_background.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_borders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_display.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_flex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_overflow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_screenreaders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_sizing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_spacing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/bootstrap/utilities/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/message.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a94eed93-e424-4639-a8fe-160f0debf188.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a94eed93-e424-4639-a8fe-160f0debf188.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a94eed93-e424-4639-a8fe-160f0debf188/storage_v2/_src_/schema/doc_track.Y8CZpw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a94eed93-e424-4639-a8fe-160f0debf188/storage_v2/_src_/schema/doc_track.Y8CZpw.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Appointments/project_war.war" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Appointments/project_war.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/project_war_exploded/project_war.war" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/project_war_exploded/project_war.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/project/Appointment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/project/Appointment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/project/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/project/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/appointment.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/appointment.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -587,11 +36,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/project/Home.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -599,6 +52,9 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -651,15 +107,6 @@
     ]
   }
 }</component>
-  <component name="QodanaHighlightedReportService">
-    <option name="localRunNotPublishedPersistedInfo">
-      <LocalReportPersistedInfo>
-        <option name="path" value="C:\Users\Muzamil\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
-        <option name="reportGuid" value="47ea054f-628a-4720-a346-1dd8374742c8" />
-        <option name="reportName" value="project/qodana/2023-08-15" />
-      </LocalReportPersistedInfo>
-    </option>
-  </component>
   <component name="QodanaIsSelectedPersistenceService">
     <option name="selectedOrLoading" value="true" />
   </component>
@@ -677,6 +124,7 @@
       <recent name="C:\Users\Muzamil\IdeaProjects\project\src\main\webapp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Muzamil\IdeaProjects\Doc-Track\src\main\webapp" />
       <recent name="C:\Users\Muzamil\IdeaProjects\project\src\main\webapp\images" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -940,6 +388,7 @@
         </TomcatInfo>
       </option>
       <option name="vmOptions" value="" />
+      <module name="project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -965,6 +414,7 @@
       <workItem from="1691842411484" duration="34611000" />
       <workItem from="1692114173560" duration="4989000" />
       <workItem from="1692160664855" duration="7953000" />
+      <workItem from="1695108119807" duration="6356000" />
     </task>
     <servers />
   </component>
@@ -1011,18 +461,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/webapp/appointment.jsp</url>
-          <line>171</line>
+          <line>178</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/webapp/appointment.jsp</url>
-          <line>193</line>
+          <line>200</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/webapp/appointment.jsp</url>
-          <line>243</line>
+          <line>250</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/message.jsp</url>
+          <line>16</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
